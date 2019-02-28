@@ -1,0 +1,16 @@
+{
+    "name": "dbt/phpunit-runner",
+    "description": "A PhpUnit runner for Xdebug enabled environments",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "composer/xdebug-handler": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel S. Deboer",
+            "email": "daniel.s.deboer@gmail.com"
+        }
+    ]
+}
