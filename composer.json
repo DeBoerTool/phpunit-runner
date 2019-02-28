@@ -2,7 +2,7 @@
     "name": "dbt/phpunit-runner",
     "description": "A PhpUnit runner for Xdebug enabled environments",
     "type": "library",
-    "require-dev": {
+    "require": {
         "phpunit/phpunit": "^7.0",
         "composer/xdebug-handler": "^1.3"
     },
