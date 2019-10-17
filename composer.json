@@ -3,7 +3,7 @@
     "description": "A PhpUnit runner for Xdebug enabled environments",
     "type": "library",
     "require": {
-        "phpunit/phpunit": "~8.0.0",
+        "phpunit/phpunit": "^8.0",
         "composer/xdebug-handler": "^1.3"
     },
     "license": "MIT",
